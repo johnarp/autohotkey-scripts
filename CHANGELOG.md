@@ -5,6 +5,12 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.1.1] - 2026-01-17
+
+### Added
+
+- [steam-maintenance-notification](./scripts/steam-maintenance-notification.ahk)
+
 ## [0.1.0] - 2026-01-11
 
 ### Added
@@ -12,4 +18,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [keyboard-shortcuts.ahk](./scripts/keyboard-shortcuts.ahk)
 - [text-replacement.ahk](./scripts/text-replacement.ahk)
 
+[0.1.1]: https://github.com/johnarp/autohotkey-scripts/compare/v0.1.0...v0.1.1
 [0.1.0]: https://github.com/johnarp/autohotkey-scripts/releases/tag/v0.1.0
